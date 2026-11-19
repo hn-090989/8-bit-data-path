@@ -1,4 +1,4 @@
-# 8-Bit Computer / Datapath
+# 8-Bit Datapath
 
 ## Overview
 
